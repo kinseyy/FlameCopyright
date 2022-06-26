@@ -1,0 +1,2 @@
+# FlameCopyright
+Discord server cloner.
